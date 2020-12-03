@@ -2,7 +2,7 @@
 
 struct BinaryTreeNode
 {
-	int data;
+	char data;
 	BinaryTreeNode* lchild, * rchild;
 };
 
